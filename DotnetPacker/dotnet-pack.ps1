@@ -1,0 +1,1 @@
+dotnet pack -c Release -o "D:\workspace\MyLocalNuget\ClassLibrary"
